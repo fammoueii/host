@@ -1,20 +1,10 @@
-{
-  "version": 1,
-  "artifactType": {
-    "type": "APK",
-    "kind": "Directory"
-  },
-  "applicationId": "com.awesome.shimmer",
-  "variantName": "release",
-  "elements": [
-    {
-      "type": "SINGLE",
-      "filters": [],
-      "properties": [],
-      "versionCode": 2,
-      "versionName": "2.0",
-      "enabled": true,
-      "outputFile": "app-release.apk"
-    }
-  ]
-}
+{"ADS_STATION":[{
+  "face_banner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"face_interstital":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+"face_native":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+
+"admob_banner":"ca-app-pub-3940256099942544/6300978111",
+"admob_interstital":"ca-app-pub-3940256099942544/1033173712",
+"admob_nativeads":"ca-app-pub-3940256099942544/2247696110",
+"admob_or_face":"face"
+}]}
