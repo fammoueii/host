@@ -22,18 +22,18 @@
   "TopApp": [
     {
       "title": "Facebook",
-      "image": "https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg",
-      "url": "https://play.google.com/store/apps/details?id=com.facebook.katana"
+      "image": "",
+      "url": ""
     },
     {
       "title": "Messenger",
-      "image": "https://play-lh.googleusercontent.com/ldcQMpP7OaVmglCF6kGas9cY_K0PsJzSSosx2saw9KF1m3RHaEXpH_9mwBWaYnkmctk",
-      "url": "https://play.google.com/store/apps/details?id=com.facebook.orca"
+      "image": "",
+      "url": ""
     },
     {
-      "title": "WhatsApp",
+      "title": "ff",
       "image": "https://bit.ly/3BAh4Dz",
-      "url": "https://play.google.com/store/apps/details?id=com.whatsapp"
+      "url": "
     },
     {
       "title": "Instagram",
