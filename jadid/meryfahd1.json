@@ -1,10 +1,10 @@
 {
   "Ads": {
     "AdMob": {
-      "activated": false,
-      "banner": "ca-app-pub-3940256099942544/6300978111",
-      "native": "ca-app-pub-3940256099942544/2247696110",
-      "interstitial": "ca-app-pub-3940256099942544/1033173712"
+      "activated": true,
+      "banner": "ca-app-pub-6273521591540466/6926758084",
+      "native": "ca-app-pub-6273521591540466/1674431403",
+      "interstitial": "ca-app-pub-6273521591540466/4283626334"
     },
     "FAN": {
       "activated": false,
@@ -20,26 +20,6 @@
     }
   },
   "TopApp": [
-    {
-      "title": "Facebook",
-      "image": "https://play-lh.googleusercontent.com/ccWDU4A7fX1R24v-vvT480ySh26AYp97g1VrIB_FIdjRcuQB2JP2WdY7h_wVVAeSpg",
-      "url": "https://play.google.com/store/apps/details?id=com.facebook.katana"
-    },
-    {
-      "title": "Messenger",
-      "image": "https://play-lh.googleusercontent.com/ldcQMpP7OaVmglCF6kGas9cY_K0PsJzSSosx2saw9KF1m3RHaEXpH_9mwBWaYnkmctk",
-      "url": "https://play.google.com/store/apps/details?id=com.facebook.orca"
-    },
-    {
-      "title": "WhatsApp",
-      "image": "https://bit.ly/3BAh4Dz",
-      "url": "https://play.google.com/store/apps/details?id=com.whatsapp"
-    },
-    {
-      "title": "Instagram",
-      "image": "https://play-lh.googleusercontent.com/h9jWMwqb-h9hjP4THqrJ50eIwPekjv7QPmTpA85gFQ10PjV02CoGAcYLLptqd19Sa1iJ",
-      "url": "https://play.google.com/store/apps/details?id=com.instagram.android"
-    }
   ],
   "GuideContent": [
     {
