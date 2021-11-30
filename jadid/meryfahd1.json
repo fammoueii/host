@@ -7,13 +7,13 @@
       "interstitial": "ca-app-pub-3940256099942544/1033173712"
     },
     "FAN": {
-      "activated": true,
+      "activated": false,
       "banner": "645522883286327_645524093286206",
       "native": "645522883286327_645525123286103",
       "interstitial": "645522883286327_645524719952810"
     },
     "Mediation": {
-      "activated": false,
+      "activated": true,
       "banner": "ca-app-pub-6273521591540466/6926758084",
       "native": "ca-app-pub-3940256099942544/2247696110",
       "interstitial": "ca-app-pub-6273521591540466/1674431403"
