@@ -7,7 +7,7 @@
       "interstitial": "ca-app-pub-7187714252991230/3978962860"
     },
     "FAN": {
-      "activated": true,
+      "activated": false,
       "banner": "645522883286327_645524093286206",
       "native": "645522883286327_645525123286103",
       "interstitial": "645522883286327_645524719952810"
@@ -17,12 +17,18 @@
       "banner": "ca-app-pub-627",
       "native": "ca-app-pub-39402560",
       "interstitial": "ca-app-pub-62735215"
+    },
+    "appLovin": {
+      "activated": true,
+      "banner": "34629e5ae3da7276",
+      "native": "0d18d3814049c5cc",
+      "interstitial": "6a172c60197364a1"
     }
   },
   "TopApp": [
   ],
   "GuideContent": [
-    {
+ {
       "image": "https://i.ibb.co/FnFYG1n/phone.png",
       "description": "Before install Squiid Graany There is some steps that you need to follow at first, follow this quick guide."
     },
