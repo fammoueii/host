@@ -1,7 +1,7 @@
 {
   "Ads": {
     "AdMob": {
-      "activated": false,
+      "activated": true,
       "banner": "ca-app-pub-7187714252991230/5292044533",
       "native": "ca-app-pub-7187714252991230/4026870804",
       "interstitial": "ca-app-pub-7187714252991230/3978962860"
@@ -19,7 +19,7 @@
       "interstitial": "ca-app-pub-62735215"
     },
     "appLovin": {
-      "activated": true,
+      "activated": false,
       "banner": "62d7e0acce04c214",
       "native": "0d18d3814049c5cc",
       "interstitial": "257c4a1b2f0c5afa"
