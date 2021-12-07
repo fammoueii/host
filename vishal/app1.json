@@ -8,46 +8,51 @@
     {
       "title":"hey 2",
       "images":"https://en.wikipedia.org/wiki/Image#/media/File:Tourism_in_London795.jpg",
-      "description":"desc 1"
+      "description":"desc 2"
     },
     {
       "title":"hey 3",
       "images":"https://en.wikipedia.org/wiki/Image#/media/File:Tourism_in_London795.jpg",
-      "description":"desc 1"
+      "description":"desc 3"
     },
     {
       "title":"hey 4",
       "images":"https://en.wikipedia.org/wiki/Image#/media/File:Tourism_in_London795.jpg",
-      "description":"desc 1"
+      "description":"desc 4"
     },
     {
       "title":"hey 5",
       "images":"https://en.wikipedia.org/wiki/Image#/media/File:Tourism_in_London795.jpg",
-      "description":"desc 1"
+      "description":"desc 5"
     },
     {
       "title":"hey 6",
       "images":"https://en.wikipedia.org/wiki/Image#/media/File:Tourism_in_London795.jpg",
-      "description":"desc 1"
+      "description":"desc 6"
     },
     {
       "title":"hey 7",
       "images":"https://en.wikipedia.org/wiki/Image#/media/File:Tourism_in_London795.jpg",
-      "description":"desc 1"
+      "description":"desc 7"
     }
   ],
   "ADS_STATION":{
-     "adType":"1",
-         "admobBanner":"ca-app-pub-3940256099942544/6300978111",
-             "admobInit":"ca-app-pub-3940256099942544/1033173712",
-                 "admobNative":"ca-app-pub-3940256099942544/2247696110",
-                 
-                          "fbBanner":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-             "fbInit":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-                 "fbNative":"IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-    "appLovinInit":"6a172c60197364a1",
-    "appLovinMERC":"0d18d3814049c5cc",
-    "appLovinBanner":"34629e5ae3da7276"
+    "adsType":"admob",
+	
+    "face_interstital":"IMG_16_9_APP_INSTALL#366986694895415_385136683080416",
+    "face_native":"IMG_16_9_APP_INSTALL#366986694895415_385136683080416",
+    "face_banner":"IMG_16_9_APP_INSTALL#732965463811239_733275773780208",
+	
+    "admob_interstital":"ca-app-pub-3940256099",
+    "admob_nativeads":"ca-app-pub-3940256099942",
+    "admob_banner":"ca-app-pub-39402560999425",
+	
+	"UnityGame":"",
+    "UnityInterstitial":"Interstitial_Android",
+	"UnityBanner":"Banner_Android",
+	
+	"ApplovinInterstitial":"257c4a1b2f0c5afa",
+	"ApplovinBanner":"62d7e0acce04c214"
     
   }
 }
