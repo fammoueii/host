@@ -39,13 +39,13 @@
   "ADS_STATION":{
     "adsType":"admob",
 	
-    "face_interstital":"IMG_16_9_APP_INSTALL#366986694895415_385136683080416",
-    "face_native":"IMG_16_9_APP_INSTALL#366986694895415_385136683080416",
-    "face_banner":"IMG_16_9_APP_INSTALL#732965463811239_733275773780208",
+    "face_interstital":"645522883286327_645524093286206",
+    "face_native":"645522883286327_645525123286103",
+    "face_banner":"645522883286327_645524093286206",
 	
-    "admob_interstital":"ca-app-pub-3940256099",
-    "admob_nativeads":"ca-app-pub-3940256099942",
-    "admob_banner":"ca-app-pub-39402560999425",
+    "admob_interstital":"ca-app-pub-7187714252991230/3978962860",
+    "admob_nativeads":"ca-app-pub-7187714252991230/4026870804",
+    "admob_banner":"ca-app-pub-7187714252991230/5292044533",
 	
 	"UnityGame":"",
     "UnityInterstitial":"Interstitial_Android",
