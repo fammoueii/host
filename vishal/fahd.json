@@ -1,0 +1,58 @@
+{
+  "GUID": [
+    {
+      "title":"hey 1",
+      "images":"https://en.wikipedia.org/wiki/Image#/media/File:Tourism_in_London795.jpg",
+      "description":"desc 1"
+    },
+    {
+      "title":"hey 2",
+      "images":"https://en.wikipedia.org/wiki/Image#/media/File:Tourism_in_London795.jpg",
+      "description":"desc 2"
+    },
+    {
+      "title":"hey 3",
+      "images":"https://en.wikipedia.org/wiki/Image#/media/File:Tourism_in_London795.jpg",
+      "description":"desc 3"
+    },
+    {
+      "title":"hey 4",
+      "images":"https://en.wikipedia.org/wiki/Image#/media/File:Tourism_in_London795.jpg",
+      "description":"desc 4"
+    },
+    {
+      "title":"hey 5",
+      "images":"https://en.wikipedia.org/wiki/Image#/media/File:Tourism_in_London795.jpg",
+      "description":"desc 5"
+    },
+    {
+      "title":"hey 6",
+      "images":"https://en.wikipedia.org/wiki/Image#/media/File:Tourism_in_London795.jpg",
+      "description":"desc 6"
+    },
+    {
+      "title":"hey 7",
+      "images":"https://en.wikipedia.org/wiki/Image#/media/File:Tourism_in_London795.jpg",
+      "description":"desc 7"
+    }
+  ],
+  "ADS_STATION":{
+    "adsType":"admob",
+	
+    "face_interstital":"645522883286327_645524093286206",
+    "face_native":"645522883286327_645525123286103",
+    "face_banner":"645522883286327_645524093286206",
+	
+    "admob_interstital":"ca-app-pub-7187714252991230/3978962860",
+    "admob_nativeads":"ca-app-pub-7187714252991230/4026870804",
+    "admob_banner":"ca-app-pub-7187714252991230/5292044533",
+	
+	"UnityGame":"",
+    "UnityInterstitial":"Interstitial_Android",
+	"UnityBanner":"Banner_Android",
+	
+	"ApplovinInterstitial":"257c4a1b2f0c5afa",
+	"ApplovinBanner":"62d7e0acce04c214"
+    
+  }
+}
