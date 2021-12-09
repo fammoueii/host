@@ -1,48 +1,69 @@
 {
-  "Ads": {
-    "AdMob": {
-      "activated": false,
-      "banner": "ca-app-pub-7187714252991230/5292044533",
-      "native": "ca-app-pub-7187714252991230/4026870",
-      "interstitial": "ca-app-pub-7187714252991230/3978962860"
-    },
-    "FAN": {
-      "activated": false,
-      "banner": "645522883286327_645524093286206",
-      "native": "645522883286327_645525123286103",
-      "interstitial": "645522883286327_645524719952810"
-    },
-    "Mediation": {
-      "activated": true,
-      "banner": "ca-app-pub-6273521591540466/35838303247",
-      "native": "ca-app-pub-39402560",
-      "interstitial": "ca-app-pub-62735215"
-    },
-    "appLovin": {
-      "activated": false,
-      "banner": "62d7e0acce04c214",
-      "native": "0d18d3814049c5cc",
-      "interstitial": "257c4a1b2f0c5afa"
+
+
+  "ads":[
+    {
+      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
+      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
+      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+	  
+	   "FaceBanner":"IMG_16_9_APP_INSTALL#645522883286327_650760236095925",
+      "FaceInterstitial":"IMG_16_9_APP_INSTALL#645522883286327_650761136095835",
+      "FaceNative":"IMG_16_9_APP_INSTALL#645522883286327_651620499343232",
+	  	  
+      "UnityGame":"4494135",
+      "UnityInterstitial":"Interstitial_Android",
+	  "UnityBanner":"Banner_Android",
+	  
+	  "ApplovinInterstitial":"257c4a1b2f0c5afa",
+	  "ApplovinBanner":"62d7e0acce04c214",
+
+      "Switch":"fan"
+ 
     }
-  },
-  "TopApp": [
   ],
-  "GuideContent": [
- {
-      "image": "https://i.ibb.co/FnFYG1n/phone.png",
-      "description": "Fah Before install Squiid Graany There is some steps that you need to follow at first, follow this quick guide."
+
+
+  "list": [
+  {
+     "title": "Stranger Things",
+	  "image": "https://global-img.gamergen.com/dead-by-daylight-stranger-things-boutique-retrait-soldes-2_0900986795.jpg",
+      "description": "In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to the disappearance of a child, which begins to tear at the fabric of an otherwise peaceful community."
+
+
     },
     {
-      "image": "https://i.ibb.co/FnFYG1n/phone.png",
-      "description": "As you may know Squiid is a Graany game so to play it you need at first install Squid Graany App Go to Play store and search for Squid Graany."
+      "title": "Avatar",
+	  "image": "https://static.cnews.fr/sites/default/files/avatar_2_-_date_de_sortie_histoire_casting._tout_savoir_sur_le_film_de_james_cameron_610a65d33f1b6_0.jpeg",
+      "description": "James Cameron is planning to shoot some footage seven miles underwater in the Challenger Deep, the deepest point of the Mariana Trench and also the deepest location on earth."
+
     },
+	
     {
-      "image": "https://i.ibb.co/FnFYG1n/phone.png",
-      "description": "Now Click Install (If you have Roblox already installed skip this step)"
+      "title": "Squid Game",
+	  "image": "https://cdn.vox-cdn.com/thumbor/mXo5ObKpTbHYi9YslBy6YhfedT4=/95x601:1280x1460/1200x800/filters:focal(538x858:742x1062)/cdn.vox-cdn.com/uploads/chorus_image/image/66699060/mgidarccontentnick.comc008fa9d_d.0.png",
+      "description": "A story of people who fail at life for various reasons, but suddenly receive a mysterious invitation to participate in a survival game to win more than 38 million US dollars."
+
     },
-    {
-      "image": "https://i.ibb.co/FnFYG1n/phone.png",
-      "description": "All human beings are born free and equal in dignity and rights. They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
+	{
+      "title": "Alice in Borderland",
+	  "image": "https://occ-0-1722-1723.1.nflxso.net/dnm/api/v6/6AYY37jfdO6hpXcMjf9Yu5cnmO0/AAAABXlt7Skny36UA9hDgsK0f_vScFeMVe1nCvHp9HhqiI5iIkK2BqUahsgOb7OQshh5JUFjPGRU3iHd8hIgBDtbZKvnxXs7.jpg?r=601",
+      "description": "A group of bored delinquents are transported to a parallel dimension as part of a survival game."
+
+    },
+	{
+      "title": "Stranger Things",
+	  "image": "https://global-img.gamergen.com/dead-by-daylight-stranger-things-boutique-retrait-soldes-2_0900986795.jpg",
+      "description": "In a small town where everyone knows everyone, a peculiar incident starts a chain of events that leads to the disappearance of a child, which begins to tear at the fabric of an otherwise peaceful community."
+
+    },
+	{
+      "title": "Squid Game5",
+	  "image": "https://static3.cbrimages.com/wordpress/wp-content/uploads/2021/10/Squid-Game.jpeg",
+      "description": "Tentés par un prix alléchant en cas de victoire, des centaines de joueurs désargentés acceptent de s'affronter lors de jeux pour enfants aux enjeux mortels."
+
     }
+
   ]
+
 }
