@@ -7,7 +7,7 @@
       "interstitial": "ca-app-pub-7187714252991230/3978962860"
     },
     "FAN": {
-      "activated": false,
+      "activated": true,
       "banner": "645522883286327_650760236095925",
       "native": "645522883286327_645525123286103",
       "interstitial": "645522883286327_650761136095835"
@@ -19,7 +19,7 @@
       "interstitial": "ca-app-pub-62735215"
     },
     "appLovin": {
-      "activated": true,
+      "activated": false,
       "banner": "62d7e0acce04c214",
       "native": "257c4a1b2f0c5afa",
       "interstitial": "257c4a1b2f0c5afa"
