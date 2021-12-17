@@ -8,7 +8,7 @@
     },
     "FAN": {
      
-      "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "banner": "",
       "native": "I",
       "interstitial": ""
     },
@@ -20,7 +20,7 @@
     },
     "appLovin": {
      
-      "banner": "",
+      "banner": "62d7e0acce04c214",
       "native": "0d18d3814049c5cc",
       "interstitial": "43"
     },
