@@ -2,15 +2,15 @@
   "Ads": {
     "AdMob": {
       
-      "banner": "ca-app-pub-3940256099942544/630054354978111",
-      "native": "ca-app-pub-3940256099942544/224767634343496110",
-      "interstitial": "ca-app-pub-3940256099942544/1033173712"
+      "banner": "ca-app-pub-3940256099942544/6300972",
+      "native": "ca-app-pub-3940256099942544/224720",
+      "interstitial": "ca-app-pub-3940256099942543712"
     },
     "FAN": {
      
-      "banner": "645522883286327_654574779047804",
-      "native": "645522883286327_650760236095925",
-      "interstitial": "645522883286327_645654719952810"
+      "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
     },
     "Mediation": {
     
@@ -20,12 +20,12 @@
     },
     "appLovin": {
      
-      "banner": "34629e5ae3da72766534",
-      "native": "0d18d3814049c5cc7532",
-      "interstitial": "6a172c601973645543a1"
+      "banner": "34629e5ae3da7276",
+      "native": "0d18d3814049c5cc",
+      "interstitial": "6a172c60197364a1"
     },
 "unity": {
-      "gameId": "4494135"
+      "gameId": "14851"
     }
   },
   "TopApp": [
