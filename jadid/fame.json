@@ -19,7 +19,7 @@
       "interstitial": "ca-app-pub-62735215"
     },
     "appLovin": {
-      "activated": true,
+      "activated": false,
       "banner": "8d4791ece6793c2f",
       "native": "b41e3a5552725a1a",
       "interstitial": "9ba17ffad37cd62b"
