@@ -1,13 +1,13 @@
 {
   "Ads": {
     "AdMob": {
-      "activated": false,
-      "banner": "ca-app-pub-7187714252991230/5292044533",
-      "native": "ca-app-pub-7187714252991230/4026870804",
-      "interstitial": "ca-app-pub-7187714252991230/3978962860"
+      "activated": true,
+      "banner": "ca-app-pub-6273521591540466/6926758084",
+      "native": "ca-app-pub-7187",
+      "interstitial": "ca-app-pub-718771425299123"
     },
     "FAN": {
-      "activated": true,
+      "activated": false,
       "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
       "interstitial": "645522883286327_650761136095835"
