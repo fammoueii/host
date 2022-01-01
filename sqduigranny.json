@@ -1,0 +1,27 @@
+{
+  "Ads": {
+    "AdMob": {
+      "show": true,
+      "banner": "ca-app-pub-3940256099942544/6300978111",
+      "native": "ca-app-pub-3940256099942544/2247696110",
+      "interstitial": "ca-app-pub-3940256099942544/1033173712"
+    },
+    "FAN": {
+      "show": false,
+      "banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+      "interstitial": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+    },
+    "appLovinBidding": {
+     "show": false,
+      "banner": "nsvskavjksajv",
+       "native": "jdsklbkdf",
+      "interstitial": "hjrehrhkrlb"
+    },
+"unity": {
+   "show": false,
+      "gameId": "14851"
+    }
+  },
+    "webPage": "https://practical-euclid-911b75.netlify.app/"
+}
