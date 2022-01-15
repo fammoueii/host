@@ -3,9 +3,9 @@
 
   "ads":[
     {
-      "AdmobBanner":"ca-app-pub-3940256099942544/6300978111",
-      "AdmobInterstitial":"ca-app-pub-3940256099942544/1033173712",
-      "AdmobNative":"ca-app-pub-3940256099942544/2247696110",
+      "AdmobBanner":"ca-app-pub-3884690251870833/8841549910",
+      "AdmobInterstitial":"",
+      "AdmobNative":"",
 	  
 	   "FaceBanner":"509550083642495_510780430186127",
       "FaceInterstitial":"IMG_16",
@@ -18,7 +18,7 @@
 	  "ApplovinInterstitial":"257c4a1b2f0c5afa",
 	  "ApplovinBanner":"62d7e0acce04c214",
 
-      "Switch":"Unity"
+      "Switch":"Admob"
  
     }
   ],
